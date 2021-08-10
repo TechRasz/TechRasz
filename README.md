@@ -1,5 +1,4 @@
-someone who doesn't know his own identity
-its YOU
+someone who doesn't know his own identity---you 
 
 <!---
 TechRasz/TechRasz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
